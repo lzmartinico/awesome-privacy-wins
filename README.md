@@ -18,8 +18,8 @@ A curated list of stories where cybersecurity and privacy have positively impact
 * Story about encryption
 
 ## Resources
-- Some resource about security/privacy
+- [Queer Privacy](Some resource about security/privacy) - Collection of essays on everyday and online privacy giving voices to queer people
 
 ### Guides
  
- - Some guide about security/privacy
+ - [Smart Girl's Guide to Privacy](https://nostarch.com/smartgirlsguide) - Practical guide on how to be safe as a woman online
