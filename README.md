@@ -27,3 +27,7 @@ A curated list of stories where cybersecurity and privacy have positively impact
 ### Guides
  
  - [Smart Girl's Guide to Privacy](https://nostarch.com/smartgirlsguide) - Practical guide on how to be safe as a woman online
+ - [Digital Privacy at the U.S. Border](https://www.eff.org/wp/digital-privacy-us-border-2017)
+ - [Email Self-Defense](https://emailselfdefense.fsf.org/en/) - how to encrypt your email on any platform
+ - [OpenPGP Best Practices](https://riseup.net/en/security/message-security/openpgp/gpg-best-practices) - advanced guide to email encryption
+ - [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html) - how to setup secure defaults to SSH "to make NSA analyst sad"
