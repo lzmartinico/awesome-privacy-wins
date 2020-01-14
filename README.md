@@ -7,6 +7,7 @@ A curated list of stories where cybersecurity and privacy have positively impact
     - [Surveillance](#surveillance)
   - [Resources](#resources)
     - [Guides](#guides)
+    - [Hardware](#hardware)
     
 
 ## Technologies
