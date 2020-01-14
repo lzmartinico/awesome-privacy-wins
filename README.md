@@ -25,6 +25,7 @@ A curated list of stories where cybersecurity and privacy have positively impact
 - [Digital resistance: security & privacy tips from Hong Kong protesters](https://medium.com/crypto-punks/digital-resistance-security-privacy-tips-from-hong-kong-protesters-37ff9ef73129)
 - [How Chilean Protesters Took Down a Drone With Standard Laser Pointers](https://www.nextgov.com/emerging-tech/2019/11/how-chilean-protesters-took-down-drone-standard-laser-pointers/161288/)
 - [Privacy International impact](https://privacyinternational.org/impact) - success stories from PI, a charity fighting to combact surveillance
+- [Privacy success stories from Tor](https://blog.torproject.org/how-has-tor-helped-you-send-us-your-story) - Success stories from people using Tor to protect themselves.
 ## Resources
 - [Queer Privacy](https://leanpub.com/queerprivacy) - Collection of essays on everyday and online privacy giving voices to queer people
 - [Cybersecurity for the LGBT community](https://www.lgbttech.org/cybersecurity) - Advices for having a safe life on Internet
