@@ -37,7 +37,7 @@ A curated list of stories where cybersecurity and privacy have positively impact
 - [Cybersecurity for the LGBT community](https://www.lgbttech.org/cybersecurity) - Advices for having a safe life on Internet
 - [Privacy Tools](https://www.privacytools.io/) - List of privacy-respecting software
 - [Privacy for LGBTQ community](https://www.circadence.com/blog/cyber-security-and-the-lgbtqia-community/)
-
+- [SecureDrop](https://securedrop.org/) - Tool for whistleblowers to anonymously communicate with news organisations
 ### Guides
  
  - [Smart Girl's Guide to Privacy](https://nostarch.com/smartgirlsguide) - Practical guide on how to be safe as a woman online
