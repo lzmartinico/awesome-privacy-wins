@@ -28,6 +28,7 @@ A curated list of stories where cybersecurity and privacy have positively impact
 - [Digital resistance: security & privacy tips from Hong Kong protesters](https://medium.com/crypto-punks/digital-resistance-security-privacy-tips-from-hong-kong-protesters-37ff9ef73129)
 - [How Chilean Protesters Took Down a Drone With Standard Laser Pointers](https://www.nextgov.com/emerging-tech/2019/11/how-chilean-protesters-took-down-drone-standard-laser-pointers/161288/)
 - [Privacy International impact](https://privacyinternational.org/impact) - success stories from PI, a charity fighting to combact surveillance
+- [Little Brother (fiction)](https://craphound.com/littlebrother/download/) - a novel about teenagers resisting government surveillance
 
 ## Resources
 - [Queer Privacy](https://leanpub.com/queerprivacy) - Collection of essays on everyday and online privacy giving voices to queer people
@@ -38,6 +39,7 @@ A curated list of stories where cybersecurity and privacy have positively impact
 ### Guides
  
  - [Smart Girl's Guide to Privacy](https://nostarch.com/smartgirlsguide) - Practical guide on how to be safe as a woman online
+ - [Fight cyberstalking](https://www.fightcyberstalking.org/) - support for victims of cyberstalking and resources to be safe online
  - [Digital Privacy at the U.S. Border](https://www.eff.org/wp/digital-privacy-us-border-2017)
  - [Email Self-Defense](https://emailselfdefense.fsf.org/en/) - how to encrypt your email on any platform
  - [OpenPGP Best Practices](https://riseup.net/en/security/message-security/openpgp/gpg-best-practices) - advanced guide to email encryption
