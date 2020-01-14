@@ -28,7 +28,6 @@ A curated list of stories where cybersecurity and privacy have positively impact
 - [Queer Privacy](https://leanpub.com/queerprivacy) - Collection of essays on everyday and online privacy giving voices to queer people
 - [Cybersecurity for the LGBT community](https://www.lgbttech.org/cybersecurity) - Advices for having a safe life on Internet
 - [Privacy Tools](https://www.privacytools.io/) - List of privacy-respecting software
-- [Countries which ban Whatsapp](https://www.express.co.uk/life-style/science-technology/1166191/whatsapp-ban-map-which-countries-where-whatsapp-blocked-censorship-china-banned) - List of countries which ban Whatsapp
 - [Privacy for LGBTQ community](https://www.circadence.com/blog/cyber-security-and-the-lgbtqia-community/)
 
 ### Guides
