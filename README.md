@@ -43,6 +43,7 @@ A curated list of stories where cybersecurity and privacy have positively impact
  - [OpenPGP Best Practices](https://riseup.net/en/security/message-security/openpgp/gpg-best-practices) - advanced guide to email encryption
  - [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html) - how to setup secure defaults to SSH "to make NSA analyst sad"
  - [How to use Tor](https://www.techradar.com/uk/how-to/how-to-protect-your-privacy-online-with-tor-browser-improve-your-security-and-stay-anonymous) - How to use Tor to protect your privacy
+ - [Getting started with Let's Encrypt](https://letsencrypt.org/getting-started/) - Learn how to add free HTTPS to your own website to support the privacy of your users
 
 ### Hardware
 
