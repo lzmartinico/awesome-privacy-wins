@@ -10,7 +10,7 @@ A curated list of stories where cybersecurity and privacy have positively impact
     - [Surveillance](#surveillance)
   - [Resources](#resources)
     - [Guides](#guides)
-    - [Hardware](#hardware)
+    - [Hardware and Operating Systems](#hardware-and-operating-systems)
   - [How to help](#how-to-help)
     
 
@@ -23,6 +23,7 @@ A curated list of stories where cybersecurity and privacy have positively impact
 
 ### Anonymity
 - [Privacy success stories from Tor](https://blog.torproject.org/how-has-tor-helped-you-send-us-your-story) - Success stories from people using Tor to protect themselves.
+- [This is what a Tor Supporter looks like: Laura Poitras](https://blog.torproject.org/what-tor-supporter-looks-laura-poitras) - how journalist Laura Poitras uses Tor to conduct her work safely
 
 ### Surveillance
 - [How Hong Kong’s Protestors Are Hindering (and Hijacking) the Tools of Surveillance](https://gizmodo.com/how-hong-kong-s-protestors-are-hindering-and-hijacking-1836732933)
@@ -48,11 +49,16 @@ A curated list of stories where cybersecurity and privacy have positively impact
  - [How to use Tor](https://www.techradar.com/uk/how-to/how-to-protect-your-privacy-online-with-tor-browser-improve-your-security-and-stay-anonymous) - How to use Tor to protect your privacy
  - [Getting started with Let's Encrypt](https://letsencrypt.org/getting-started/) - Learn how to add free HTTPS to your own website to support the privacy of your users
 
-### Hardware
+### Hardware and Operating Systems
 
 - [Librem](https://puri.sm/) - Laptops & phones that protect the privacy of your family and the security of your business
 - [PureOS](https://pureos.net/) - A user friendly, secure and freedom respecting OS for your daily usage
+- [Qubes OS](https://www.qubes-os.org/) - Linux Distribution that separates processes in different Virtual Machines
+- [Whonix](https://www.whonix.org/) - Anonymity-focused operating system that runs in a Virtual Machine
+- [Tails](https://tails.boum.org/) - Anonymity-focused operating system that runs off a USB drive
 - [Libreboot](https://libreboot.org/) - A free, open-source boot firmware/BIOS replacement which respects your freedom and privacy
+- [GrapheneOS](https://grapheneos.org/) - Android custom operating system focused on Cybersecurity
+- [Replicant](https://www.replicant.us/) - Free (libre) Android custom operating system focused on freedom and privacy/security
 
 ## How to help
 
