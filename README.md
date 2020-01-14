@@ -23,6 +23,7 @@ A curated list of stories where cybersecurity and privacy have positively impact
 
 ### Anonymity
 - [Privacy success stories from Tor](https://blog.torproject.org/how-has-tor-helped-you-send-us-your-story) - Success stories from people using Tor to protect themselves.
+- [This is what a Tor Supporter looks like: Laura Poitras](https://blog.torproject.org/what-tor-supporter-looks-laura-poitras) - how journalist Laura Poitras uses Tor to conduct her work safely
 
 ### Surveillance
 - [How Hong Kong’s Protestors Are Hindering (and Hijacking) the Tools of Surveillance](https://gizmodo.com/how-hong-kong-s-protestors-are-hindering-and-hijacking-1836732933)
