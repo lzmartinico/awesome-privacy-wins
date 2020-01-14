@@ -16,13 +16,17 @@ A curated list of stories where cybersecurity and privacy have positively impact
 
 ### Encryption
 
-* Story about encryption
+* [Defending the rights of protesters using Protonmail](https://protonmail.com/blog/protesters-free-speech/)
+* [United Nations labels encryption fundamental to Human Rights](https://www.ohchr.org/EN/NewsEvents/Pages/HRencryptionanonymityinadigitalage.aspx)
 
 ### Surveillance
 - [How Hong Kong’s Protestors Are Hindering (and Hijacking) the Tools of Surveillance](https://gizmodo.com/how-hong-kong-s-protestors-are-hindering-and-hijacking-1836732933)
+- [Digital resistance: security & privacy tips from Hong Kong protesters](https://medium.com/crypto-punks/digital-resistance-security-privacy-tips-from-hong-kong-protesters-37ff9ef73129)
 - [How Chilean Protesters Took Down a Drone With Standard Laser Pointers](https://www.nextgov.com/emerging-tech/2019/11/how-chilean-protesters-took-down-drone-standard-laser-pointers/161288/)
+- [Privacy International impact](https://privacyinternational.org/impact) - success stories from PI, a charity fighting to combact surveillance
 ## Resources
 - [Queer Privacy](https://leanpub.com/queerprivacy) - Collection of essays on everyday and online privacy giving voices to queer people
+- [Privacy Tools](https://www.privacytools.io/) - List of privacy-respecting software
 
 ### Guides
  
