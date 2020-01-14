@@ -56,9 +56,9 @@ A curated list of stories where cybersecurity and privacy have positively impact
 - [Qubes OS](https://www.qubes-os.org/) - Linux Distribution that separates processes in different Virtual Machines
 - [Whonix](https://www.whonix.org/) - Anonymity-focused operating system that runs in a Virtual Machine
 - [Tails](https://tails.boum.org/) - Anonymity-focused operating system that runs off a USB drive
-- [Libreboot](https://libreboot.org/) - A free, open-source boot firmware/BIOS replacement which respects your freedom and privacy
 - [GrapheneOS](https://grapheneos.org/) - Android custom operating system focused on Cybersecurity
 - [Replicant](https://www.replicant.us/) - Free (libre) Android custom operating system focused on freedom and privacy/security
+- [Libreboot](https://libreboot.org/) - A free, open-source boot firmware/BIOS replacement which respects your freedom and privacy
 
 ## How to help
 
