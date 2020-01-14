@@ -45,3 +45,4 @@ A curated list of stories where cybersecurity and privacy have positively impact
 
 - [Librem](https://puri.sm/) - Laptops & phones that protect the privacy of your family and the security of your business
 - [PureOS](https://pureos.net/) - A user friendly, secure and freedom respecting OS for your daily usage
+- [Libreboot](https://libreboot.org/) - A free, open-source boot firmware/BIOS replacement which respects your freedom and privacy
