@@ -1,6 +1,8 @@
 # Awesome privacy wins
 A curated list of stories where cybersecurity and privacy have positively impacted people's lives
 
+![QR Code](https://github.com/lzmartinico/awesome-privacy-wins/raw/master/qr.png)
+
 ## Table of contents
   - [Technologies](#technologies)
     - [Encryption](#encryption)
