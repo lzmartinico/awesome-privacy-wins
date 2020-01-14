@@ -6,8 +6,8 @@ A curated list of stories where cybersecurity and privacy have positively impact
 ## Table of contents
   - [Stories](#stories)
     - [Encryption](#encryption)
-    - [Anonymity](#encryption)
-    - [Surveillance](#anonymity)
+    - [Anonymity](#anonymity)
+    - [Surveillance](#surveillance)
   - [Resources](#resources)
     - [Guides](#guides)
     - [Hardware](#hardware)
