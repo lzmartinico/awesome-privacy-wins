@@ -26,7 +26,10 @@ A curated list of stories where cybersecurity and privacy have positively impact
 - [Privacy International impact](https://privacyinternational.org/impact) - success stories from PI, a charity fighting to combact surveillance
 ## Resources
 - [Queer Privacy](https://leanpub.com/queerprivacy) - Collection of essays on everyday and online privacy giving voices to queer people
+- [Cybersecurity for the LGBT community](https://www.lgbttech.org/cybersecurity) - Advices for having a safe life on Internet
 - [Privacy Tools](https://www.privacytools.io/) - List of privacy-respecting software
+- [Countries which ban Whatsapp](https://www.express.co.uk/life-style/science-technology/1166191/whatsapp-ban-map-which-countries-where-whatsapp-blocked-censorship-china-banned) - List of countries which ban Whatsapp
+- [Privacy for LGBTQ community](https://www.circadence.com/blog/cyber-security-and-the-lgbtqia-community/)
 
 ### Guides
  
@@ -35,3 +38,8 @@ A curated list of stories where cybersecurity and privacy have positively impact
  - [Email Self-Defense](https://emailselfdefense.fsf.org/en/) - how to encrypt your email on any platform
  - [OpenPGP Best Practices](https://riseup.net/en/security/message-security/openpgp/gpg-best-practices) - advanced guide to email encryption
  - [Secure Secure Shell](https://stribika.github.io/2015/01/04/secure-secure-shell.html) - how to setup secure defaults to SSH "to make NSA analyst sad"
+
+### Hardware
+
+- [Librem](https://puri.sm/) - Laptops & phones that protect the privacy of your family and the security of your business
+- [PureOS](https://pureos.net/) - A user friendly, secure and freedom respecting OS for your daily usage
